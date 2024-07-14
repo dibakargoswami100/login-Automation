@@ -4,13 +4,7 @@ This project demonstrates how to automate the login process for a demo website u
 
 ## Table of Contents
 
-
-
 https://github.com/user-attachments/assets/be224fd3-ac77-40bf-bbfa-eadbcb0bb58a
-
-
-
-
 
 - [Introduction](#introduction)
 - [Features](#features)
